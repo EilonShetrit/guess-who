@@ -1,10 +1,10 @@
 @font-face {
   font-family: among-us;
-  src: url(/fonts/VCR_OSD_MONO_1.001.ttf);
+  src: url(../fonts/VCR_OSD_MONO_1.001.ttf);
 }
 @font-face {
   font-family: among-us2;
-  src: url(/fonts/In\ your\ face\,\ joffrey!.ttf);
+  src: url(../fonts/In\ your\ face\,\ joffrey!.ttf);
 }
 body {
   display: flex;
